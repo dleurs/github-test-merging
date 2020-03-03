@@ -1,0 +1,7 @@
+diff --git a/file3.txt b/file3.txt
+index feec1b7..38efa2b 100644
+--- a/file3.txt
++++ b/file3.txt
+@@ -1 +1 @@
+-A huge error in the code
++Flavour feature 2
